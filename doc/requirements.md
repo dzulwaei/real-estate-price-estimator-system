@@ -1,13 +1,13 @@
 # Requirements
 
-## Functional requirements (what the system must DO)
-1. The system shall ...
-2. The system shall ...
-3. The system shall ...
-4. The system shall ...
-5. The system shall ...
+## Functional requirements 
+1. The system shall allow users to input property attributes, including location, square footage, number of bedroom/bathrooms and property age.
+2. The system shall calculate and display an estimated property market value vased on the submitted property attributes.
+3. The system shall display a list of comparable recently sold properties based on proximity and feature similarity.
+4. The system shall allow users to generate and download a comprehensive PDF valuation report for any estimated property.
+5. The system shall periodically update its dataset with recent market transaction records to maintan accurate predictive models.
 
-## Non-functional requirements (how the system must PERFORM)
-1. The system shall ... (include a number, for example "within 2 seconds")
-2. The system shall ...
-3. The system shall ...
+## Non-functional requirements 
+1. The system shall calculate and display price estimates within 2 seconds after the user submits the property details.
+2. The system shall maintain a web platform availability uptime of 99.9%.
+3. The system shall achieve an estimation accuracy with Mean Absolute Percentage Error (MAPE) of under 10% on test datasets.
