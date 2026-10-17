@@ -1,5 +1,5 @@
 # User Stories
 
-1. As a prospective homebuyer, I want to input specific property attributes into the estimator.
-2. As a property seller, I want to view recent historical sales data and valuation breakdowns for similar homes in my area, so that I can set an accurate and competitive listing price.
-3. As a real estate agent, I want to export detailed, data-driven valuation reports for specific addresses, so that I can efficiently present validated pricing analysis to my clients.
+1. As a prospective homebuyer, I want to input specific property attributes into the estimator. [FR1][FR2][NFR3]
+2. As a property seller, I want to view recent historical sales data and valuation breakdowns for similar homes in my area, so that I can set an accurate and competitive listing price. [FR2][FR3][FR5][NFR3]
+3. As a real estate agent, I want to export detailed, data-driven valuation reports for specific addresses, so that I can efficiently present validated pricing analysis to my clients. [FR4][NFR2]
