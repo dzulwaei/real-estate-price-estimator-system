@@ -3,7 +3,7 @@
 ## Sprint 1 (Week 3 lab)
 
 ### Sprint goal
-By the end of this lab my user stories have acceptance criteria and my README shows the project structure
+Finalize user story specifications with numbered requirement mappings and acceptance criteria, while establising the repository structure and project roadmap in the README.
 
 ### Sprint backlog
 | Issue | Task | Status |
