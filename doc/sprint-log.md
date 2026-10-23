@@ -8,10 +8,9 @@ Finalize user story specifications with numbered requirement mappings and accept
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | Add acceptance criteria to each user story | To do |
-| #2 | Number the requirements and link each story to one | To do |
-| #3 | Add structure and roadmap to the README | To do |
-
+| #1 | Add acceptance criteria to each user story | Completed |
+| #2 | Number the requirements and link each story to one | Completed |
+| #3 | Add structure and roadmap to the README | Completed |
 ### Daily standup notes
 - Standup 1: 
 1. Planned the tasks and goals for the sprint
