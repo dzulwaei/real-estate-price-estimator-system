@@ -2,9 +2,11 @@
 
 ## Who is affected?
 
-1. Homebuyers and Sellers
-2. Real Estate Agents and Brokers
-3. Property Investors and Lenders
+1.	Homebuyers, Property Sellers, and Real Estate Investors
+2.	Real Estate Agents and Professional Appraisers
+3.	Mortgage Underwriting and Financial Institutions
+4.	Municipal Urban Planners and Policymakers
+
 
 ## What exactly is going wrong?
 
@@ -16,4 +18,8 @@ Inaccurate pricing leads to mislisted properties that either sit on the market f
 
 ## Problem statement (3 to 5 sentences)
 
-Prospective homebuyers, property sellers, real estate agents, and mortgage lenders currently rely on fragmented, manual, and subjective processes to estimate real estate values. Because traditional valuation methods depend on disjointed historical data, pricing estimates frequently suffer from human bias and fail to reflect real-time market shifts. This unpredictability results in mispriced listings, stalled transactions, and heightened financial risk across real estate investments. A Real Estate Price Estimator System resolves these friction points by leveraging centralized market data and predictive analytics to deliver instant, objective, and accurate valuations.
+The accuracy and operational efficiency of mass real estate valuation represents a pressing challenge affecting homebuyers, property sellers, real estate agents, professional appraisers, mortgage underwriting institutions, and municipal urban planners across rapidly expanding metropolitan regions such as Kuala Lumpur. Traditional appraisal methodologies, specifically manual Comparative Market Analysis (CMA) and linear Hedonic Pricing Models (HPM)  suffer from slow execution speeds, high labor costs, appraiser bias, and an inherent mathematical inability to capture non-linear, high-dimensional spatial autocorrelation across urban spaces. This absence of an efficient, objective, and transparent mass valuation mechanism leads to severe property mispricing, prolonged transaction cycles, heightened financial risk for lending institutions, and inadequate spatial data governance for municipal land taxation and infrastructure planning. For instance, Deng & Zhang (2025)   highlight that existing open-source automated machine learning (AutoML) tools remain domain-agnostic and ill-equipped for property appraisal, as they require pre-cleaned tabular datasets while lacking specialized capabilities to extract geospatial features from platforms like OpenStreetMap or parse unstructured textual listing notes.
+
+Reference: 
+Deng, L., & Zhang, X. (2025). Automated machine learning for residential property valuation. Engineering Applications of Artificial Intelligence, 160. https://doi.org/10.1016/j.engappai.2025.112035
+ 
