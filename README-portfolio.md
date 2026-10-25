@@ -15,7 +15,6 @@ Prospective homebuyers, property sellers, real estate agents, and mortgage lende
 ```
 .
 |-- README.md
-|-- README-portfolio.md
 |-- LICENSE
 |-- gitignore.txt
 |-- doc/
