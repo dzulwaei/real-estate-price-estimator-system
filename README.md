@@ -30,7 +30,7 @@ Prospective homebuyers, property sellers, real estate agents, and mortgage lende
 - [x] Problem statement written
 - [x] Requirements numbered and linked to user stories
 - [x] User stories have acceptance criteria
-- [ ] Specialized technology chosen and explained
+- [x] Specialized technology chosen and explained
 - [ ] First prototype (later in the semester)
 
 ## Status
